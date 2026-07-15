@@ -18,12 +18,13 @@
 
 #### Current work
 
-Backend services in Node.js on AWS, with
-React clients.
+I build web applications — React on the
+front end, Node.js and AWS behind it.
 
-Focus is system architecture: service
-boundaries, asynchronous processing, data
-modelling, and access control.
+Most of my time goes into system design:
+deciding how the parts fit together, so the
+system stays secure and keeps working as it
+grows.
 
 </td>
 <td width="50%" valign="top">
@@ -61,16 +62,18 @@ fundamentals: memory, concurrency, protocols.
 
 #### Selected work
 
-**[os16bit](https://github.com/firozmidda/os16bit)** — 16-bit operating system written from the bootloader up. `C/C++`
+**[avit.ac.in](https://avit.ac.in)** · 2013 — my college's website. `HTML,CSS,PHP`
 
-**[Redon Download Manager](https://github.com/firozmidda/Redon-Download-Manager)** — multi-segment download manager. `Qt` `C++`
+**Programming language** · 2012 — designed a language and wrote the compiler that runs it, from reading the source through to generating machine code. Final-year project. `C`
 
-**Compiler & language** — full pipeline, lexer through codegen. Final-year language design project. `C`
+**[Redon Download Manager](https://github.com/firozmidda/Redon-Download-Manager)** — a download manager that splits each file into parts and fetches them in parallel. `Qt` `C++`
+
+**[os16bit](https://github.com/firozmidda/os16bit)** · 2008 — a 16-bit operating system, written from the bootloader up. `C/C++`
 
 <div align="center">
 <br>
 
-[![Website](https://img.shields.io/badge/firozmidda.com-0F172A?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D)](https://www.firozmidda.com)
+[![Website](https://img.shields.io/badge/firozmidda.com-0F172A?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D)](https://firozmidda.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firozmidda/)
 
 </div>
