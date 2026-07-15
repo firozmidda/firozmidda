@@ -70,14 +70,8 @@ fundamentals: memory, concurrency, protocols.
 <div align="center">
 <br>
 
-[![Email](https://img.shields.io/badge/Email-firozmidda.1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:firozmidda.1@gmail.com)
+[![Website](https://img.shields.io/badge/firozmidda.com-0F172A?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D)](https://firozmidda.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firozmidda/)
 
 </div>
 
-<!--
-  Variant 03 — "Modern cards"
-  HTML table gives a two-column layout GitHub markdown can't do alone.
-  Badges are grouped by layer (language → cloud/infra → data → foundations), not
-  dumped in a wall. 11 is about the ceiling before it starts reading as one.
-  Add LinkedIn/site badges next to Email if you want them.
--->
